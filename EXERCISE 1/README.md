@@ -2,7 +2,7 @@ Assignment about integer, string, boolean, array, list and dictionaries
 PROJECT 85: FISHERY DAILY CATCH USINg PYTHON
 
 1.INTEGERS 
-Here in integer, I have daily quantity of fish caught daily and i compute its total=140kg,its average=23.333kg, minimum quantity is 10kg and maximum quantity is 40 kg.
+Here in integer, I have daily quantity of fish caught daily and i compute its total=140kg,its average=23.333kg, minimum quantity is 10kg and maximum quantity is 40 kg._
 
 2.strings: 
 Here in string,I compute report of two fstring by summarising the total daily quantity of 140 kg and it's average of 23.33kg
@@ -18,3 +18,4 @@ Here in array contained an element with fixed sized and i compute the sum and co
 
 6.DICTIONARIES: 
 Here in a dictionary I have a fields called id, name, and values and i updated value of catfish of 45kg to 15kg and i deleted value for tilapia and i found total value accross all records.
+__
