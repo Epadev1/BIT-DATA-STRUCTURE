@@ -1,4 +1,4 @@
-Assignment about integer, string, boolean, array, list and dictionaries 
+**Assignment about integer, string, boolean, array, list and dictionaries 
 PROJECT 85: FISHERY DAILY CATCH USINg PYTHON
 
 1.INTEGERS 
@@ -19,3 +19,4 @@ Here in array contained an element with fixed sized and i compute the sum and co
 6.DICTIONARIES: 
 Here in a dictionary I have a fields called id, name, and values and i updated value of catfish of 45kg to 15kg and i deleted value for tilapia and i found total value accross all records.
 __
+**
