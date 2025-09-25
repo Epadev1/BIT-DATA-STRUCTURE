@@ -1,12 +1,15 @@
 **Project 85: Data Structures in Everyday Rwandan Contexts – Stacks and Queues
-Overview**
-Project 85 is an educational exploration of fundamental data structures—specifically stacks and queues—applied to practical, real-world scenarios inspired by daily life in Rwanda. It combines hands-on practical tasks, algorithmic challenges, and reflective discussions to illustrate the Last-In-First-Out (LIFO) principle of stacks and the First-In-First-Out (FIFO) principle of queues. The project draws from relatable contexts like mobile money transactions (MoMo), university chapter navigation (UR), telecom services (Airtel), hospital patient lines (CHUK), and formal events like graduation ceremonies. Through these, learners understand how these structures promote efficiency, fairness, and order in operations. The project is divided into two main sections: Stack Questions and Queue Questions, each with practical exercises, a challenge, and a reflection.
-**Stack Questions Section**
+Overview**.
 
-This section focuses on stacks, where elements are added (pushed) and removed (popped) from the top, following LIFO. It demonstrates how stacks are ideal for reversible operations but can lead to inefficiencies in sequential processing.
+**Project 85 is an educational exploration of fundamental data structures—specifically stacks and queues—applied to practical, real-world scenarios inspired by daily life in Rwanda. It combines hands-on practical tasks, algorithmic challenges, and reflective discussions to illustrate the Last-In-First-Out (LIFO) principle of stacks and the First-In-First-Out (FIFO) principle of queues. The project draws from relatable contexts like mobile money transactions (MoMo), university chapter navigation (UR), telecom services (Airtel), hospital patient lines (CHUK), and formal events like graduation ceremonies. Through these, learners understand how these structures promote efficiency, fairness, and order in operations. The project is divided into two main sections: Stack Questions and Queue Questions, each with practical exercises, a challenge, and a reflection.**.
+
+**Stack Questions Section**.
+
+**This section focuses on stacks, where elements are added (pushed) and removed (popped) from the top, following LIFO. It demonstrates how stacks are ideal for reversible operations but can lead to inefficiencies in sequential processing.**.
 
 Practical (Rwanda): 
-**In MoMo, push ["Enter Number", "Enter Amount", "Confirm"]. Undo one. Which remains?**
+**In MoMo, push ["Enter Number", "Enter Amount", "Confirm"]. Undo one. Which remains?**.
+
 This exercise simulates a mobile money (MoMo) transaction workflow in Rwanda, where steps like entering a phone number, amount, and confirmation are pushed onto a stack. Undoing the last action (popping "Confirm") leaves the earlier steps intact, highlighting stacks' utility in "undo" features common in apps like MTN MoMo.
 
 **Practical (Rwanda): UR pushes ["Chapter1", "Chapter2", "Chapter3"]. Pop all. Which is left?**
@@ -30,6 +33,6 @@ Based on patient triage at the Centre Hospitalier Universitaire de Kigali (CHUK)
 **Challenge: Queue vs stack for graduation ceremony entry. Which is proper?**
 An comparative analysis for managing entry at a Rwandan university graduation ceremony. A queue ensures attendees enter in arrival order (fair and orderly), while a stack would reverse it (unfair, favoring latecomers). The queue is deemed proper for maintaining decorum in cultural events.
 
-**Reflection: Why FIFO matches fairness in ceremonies?**
+**Reflection: Why FIFO matches fairness in ceremonies?**.
 A conceptual exploration of how FIFO queues embody equity in formal gatherings like weddings or graduations in Rwanda. By honoring arrival times, they foster trust and harmony, avoiding the chaos of priority reversals and aligning with communal values of patience and justice.
 
