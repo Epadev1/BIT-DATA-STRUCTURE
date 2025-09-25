@@ -1,5 +1,4 @@
-**Project 85: Data Structures in Everyday Rwandan Contexts – Stacks and Queues
-Overview**.
+**Project 85: Data Structures in Everyday Rwandan Contexts – Stacks and Queues**.
 
 **Project 85 is an educational exploration of fundamental data structures—specifically stacks and queues—applied to practical, real-world scenarios inspired by daily life in Rwanda. It combines hands-on practical tasks, algorithmic challenges, and reflective discussions to illustrate the Last-In-First-Out (LIFO) principle of stacks and the First-In-First-Out (FIFO) principle of queues. The project draws from relatable contexts like mobile money transactions (MoMo), university chapter navigation (UR), telecom services (Airtel), hospital patient lines (CHUK), and formal events like graduation ceremonies. Through these, learners understand how these structures promote efficiency, fairness, and order in operations. The project is divided into two main sections: Stack Questions and Queue Questions, each with practical exercises, a challenge, and a reflection.**.
 
